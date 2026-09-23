@@ -44,8 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0046-permutations) |
+| [0093-restore-ip-addresses](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0093-restore-ip-addresses) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0041-first-missing-positive) |
+## String
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
