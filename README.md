@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0088-merge-sorted-array) |
 ## Tree
 |  |
@@ -52,9 +54,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0049-group-anagrams) |
 | [0093-restore-ip-addresses](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0093-restore-ip-addresses) |
 ## Math
 |  |
