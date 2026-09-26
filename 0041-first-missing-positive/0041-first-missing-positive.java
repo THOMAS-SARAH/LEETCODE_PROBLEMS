@@ -1,6 +1,6 @@
 public class Solution {
     public int firstMissingPositive(int[] nums) {
-        int n = nums.length;
+        int n = nums.length; // give the length of array
 
         // Step 1: Place each number in its correct index if possible
         // The ideal position for value 'x' is index 'x - 1'
