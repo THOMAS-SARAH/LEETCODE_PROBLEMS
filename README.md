@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0047-permutations-ii) |
+| [0089-gray-code](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0093-restore-ip-addresses) |
 ## Hash Table
 |  |
@@ -65,8 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0050-powx-n) |
+| [0089-gray-code](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0089-gray-code) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0050-powx-n) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
