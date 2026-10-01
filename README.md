@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0074-search-a-2d-matrix) |
@@ -90,6 +91,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0072-edit-distance) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
