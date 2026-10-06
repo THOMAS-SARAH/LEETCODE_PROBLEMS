@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0101-symmetric-tree) |
 ## Database
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0096-unique-binary-search-trees) |
 ## Recursion
 |  |
 | ------- |
@@ -98,8 +101,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0096-unique-binary-search-trees) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0055-jump-game) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
