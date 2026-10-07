@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
 ## Binary Search
 |  |
 | ------- |
