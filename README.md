@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0093-restore-ip-addresses) |
+| [1021-remove-outermost-parentheses](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/1021-remove-outermost-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -112,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0096-unique-binary-search-trees) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
