@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0088-merge-sorted-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Tree
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0055-jump-game) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search Tree
 |  |
 | ------- |
