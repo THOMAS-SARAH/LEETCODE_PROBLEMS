@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Backtracking
 |  |
@@ -133,4 +134,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2778-sum-of-squares-of-special-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
