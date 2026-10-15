@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0049-group-anagrams) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
 |  |
 | ------- |
@@ -159,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0023-merge-k-sorted-lists) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
