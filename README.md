@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0088-merge-sorted-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 ## Dynamic Programming
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
