@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
+| [1254-number-of-closed-islands](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -47,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0101-symmetric-tree) |
+| [1254-number-of-closed-islands](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0101-symmetric-tree) |
+| [1254-number-of-closed-islands](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0074-search-a-2d-matrix) |
+| [1254-number-of-closed-islands](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -185,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0059-spiral-matrix-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
