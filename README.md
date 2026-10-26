@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
@@ -49,12 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0101-symmetric-tree) |
 | [1254-number-of-closed-islands](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0101-symmetric-tree) |
 | [1254-number-of-closed-islands](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [1254-number-of-closed-islands](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -193,4 +197,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
