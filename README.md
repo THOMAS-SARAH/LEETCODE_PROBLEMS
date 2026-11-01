@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0096-unique-binary-search-trees) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Recursion
 |  |
