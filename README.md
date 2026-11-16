@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0093-restore-ip-addresses) |
 | [1021-remove-outermost-parentheses](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Math
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0059-spiral-matrix-ii) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Union-Find
 |  |
 | ------- |
