@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0234-palindrome-linked-list) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Math
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0096-unique-binary-search-trees) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Greedy
 |  |
 | ------- |
