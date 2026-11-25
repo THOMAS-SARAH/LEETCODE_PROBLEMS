@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3934-smallest-unique-subarray](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3934-smallest-unique-subarray](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3934-smallest-unique-subarray](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3934-smallest-unique-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -233,4 +236,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
