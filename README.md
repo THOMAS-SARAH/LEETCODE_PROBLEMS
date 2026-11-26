@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0049-group-anagrams) |
+| [0387-first-unique-character-in-a-string](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 | [2747-count-zero-request-servers](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0093-restore-ip-addresses) |
+| [0387-first-unique-character-in-a-string](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -252,4 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3934-smallest-unique-subarray) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
