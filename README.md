@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0096-unique-binary-search-trees) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [3360-stone-removal-game](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Recursion
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0059-spiral-matrix-ii) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3360-stone-removal-game) |
 ## Union-Find
 |  |
 | ------- |
