@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3934-smallest-unique-subarray](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/0096-unique-binary-search-trees) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Greedy
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/THOMAS-SARAH/LEETCODE_PROBLEMS/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search Tree
 |  |
 | ------- |
